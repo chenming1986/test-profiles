@@ -23,7 +23,7 @@
   </TestProfile>
   <TestSettings>
     <Default>
-      <Arguments>--linger=0 --call-rate=0 --num-calls=1000000 --conn-rate=0 --sizes=d5120</Arguments>
+      <Arguments>--server=127.0.0.1 --linger=0 --call-rate=0 --num-calls=1000000 --conn-rate=0 --sizes=d5120</Arguments>
     </Default>
     <Option>
       <DisplayName>Method</DisplayName>
